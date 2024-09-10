@@ -86,9 +86,9 @@ const initialQuestions = [
   },
   {
     question: 'Do parallel universes exist?',
-    option1: 'Yes, parallel universes exist',
+    option1: 'Yes',
     option1Votes: 0,
-    option2: 'No, our universe is the only one',
+    option2: 'No',
     option2Votes: 0
   },
   {
